@@ -4,7 +4,7 @@ This is a simple classic game Pong using C# Windows Forms. The game features a p
 
 ## Features:
 
-Player vs. Computer mode: Control your paddle with the arrow keys while the computer controls the opponent's paddle.
+Control your paddle with the arrow keys while the computer controls the opponent's paddle.
 Score tracking: Keep track of player and computer scores displayed on the game window title.
 Randomized ball and computervmovements: The ball's speed and direction change randomly upon collision with paddles and so does the computer's reaction speed.
 Sound effects: Enjoy chime sound effects for scoring points and background music during gameplay.
