@@ -54,4 +54,7 @@ Use the up and down arrow keys to move your paddle up and down, respectively.
 The game ends when one player reaches a score of 5.
 A message box appears announcing the winner, and the game restarts automatically.
 
-![Näyttökuva 2024-04-24 122733](https://github.com/jadentiger/Pong-Game/assets/163397461/af10ebaa-7a3e-485c-b170-b41112aa8713)
+## Code and other settings:
+
+https://github.com/jadentiger/Pong-Game/assets/163397461/123536a9-ebc6-40ca-9ffd-0026c52a4d9a
+
