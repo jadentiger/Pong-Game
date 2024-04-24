@@ -60,5 +60,5 @@ https://github.com/jadentiger/Pong-Game/assets/163397461/123536a9-ebc6-40ca-9ffd
 
 ## Customization
 
-Additionally you can add more features to your game such as power-ups, walls or other mechanics that make the game more engaging. Sound effects are also something else and fairly easy to add. If i would have more time, I would have added different difficulty levels for the computer you play against.
+Additionally you can add more features to your game such as power-ups, walls or other mechanics that make the game more engaging. Sound effects are also something else and fairly easy to add. If I would have had more time, I would have added different difficulty levels for the computer you play against.
 
